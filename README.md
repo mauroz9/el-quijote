@@ -1,0 +1,1 @@
+Este repositorio está destinado a una prueba de evaluación sobre el uso de Git, encontraras un directorio llamado libros con un fichero en su inerior, quijote.txt, en el cual encontraras los tres primeros capítulos del Quijote.
